@@ -165,3 +165,23 @@ background: rgb(244, 244, 244);
    font-size: 32px;
     font-weight: bold;
 }
+.contact_us_parent{
+    background-color: #fff2f1;
+    text-align: center;
+    padding: 35px 20px;
+    margin: 35px auto;
+    border-radius: 15px;
+    
+}
+.contact_input_btn_parent input {
+    border: none;
+    padding: 15px 152px;
+}
+.contact_input_btn_parent{
+    display: flex;
+    justify-content: center;
+}
+..contact_input_btn_parent .panda_btn {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
